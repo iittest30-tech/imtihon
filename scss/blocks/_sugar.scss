@@ -1,0 +1,45 @@
+.container {
+    width: 1600px;
+    margin: 0 auto;
+}
+.sugar__container {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: space-between;
+    align-items: center;
+    background-color: #F2CEDA;
+    width: 1600px;
+}
+.sugar__text-box {
+    width: 663px;
+    height: 364px;
+}
+.sugar__slogan {
+  font-family: "Hind Madurai";
+font-weight: 600;
+font-size: 44.2px;
+line-height: 111.00000000000001%;
+letter-spacing: 0%;
+
+}
+.sugar__text {
+    font-family: "Roboto";
+font-weight: 400;
+font-size: 16px;
+line-height: 24px;
+letter-spacing: 0%;
+color: #0F0101;
+margin-top: 35px;
+margin-bottom: 45px;
+}
+.sugar__link{
+padding: 13px 50px 14px 50px;
+background-color: #D23166;
+color: #FAFAFA;
+border-radius: 5px;
+font-family: "Roboto";
+font-weight: 500;
+font-size: 16px;
+line-height: 100%;
+letter-spacing: 0%;
+}
